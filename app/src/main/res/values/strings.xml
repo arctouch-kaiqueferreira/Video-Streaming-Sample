@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Video streaming rotation sample</string>
+    <string name="action_settings">Settings</string>
+    <string name="load_video_button">Load video</string>
+    <string name="stop_video_button">Stop video</string>
+    <string name="description_text">This is a sample that shows how to adjust the video size without reloading the video, it is very useful if you want to smoothly play the video after rotating the screen</string>
+
+</resources>
